@@ -1,1 +1,2 @@
-# Redes-neuronales
+# Proyecto de diplomado
+
